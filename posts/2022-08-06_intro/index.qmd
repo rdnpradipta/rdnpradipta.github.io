@@ -1,0 +1,27 @@
+---
+title: Intro
+date: "2022-08-06"
+#categories: [casual]
+---
+
+When I was wondering what can I do to improve my writing skill, I decided to create a blog.
+
+But I don't want to just write, I want to customize my own website too!
+
+After hours of looking for free to use template, most of them are waaaay to overkill to create such a simple blog
+and I decided to go potato, "Nah, I won't create something so sophisticated, let's just use some open source framework to do the heavylifting".
+
+Until I found [Quarto](https://quarto.org/), it's interesting at glance, they offered scientific and technical publishing system.
+
+I'll give it a try. Why not?
+After all this blog will be a mix between casual and technical blogging.
+
+They even have syntax highlighter!
+```java
+System.out.println("Hello World?");
+```
+
+
+![Quarto Image](image.jpg)
+
+Not sure why I posted the picture above, I got it from quarto site generator and it looks good, so there you go.

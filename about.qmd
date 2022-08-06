@@ -1,0 +1,27 @@
+---
+# title: "About"
+---
+
+Currently residing in Batam, Indonesia. And always want to travel the world.
+
+## Current Interest
+- Data engineering / ML engineering, 
+
+  Since I have quite a lot of experience in building API and data transformation, I always wonder how do my company process this kind of data, how they assess this data, how they give recommendation, etc. 
+  Well, I have long journey ahead.
+
+- Japanese
+
+  I **love** japanese culture, I think it's natural that I want to enjoy my movie, anime, music, comics and books without subtitle/translation. As we know, something almost always lost in translation.
+
+
+## Side activity
+- I created [salary calculator](https://github.com/rdnpradipta/salary-calculator-id) for Indonesian Worker.
+
+  I know it's just only one simple website 👉👈 But I have more plans for my upcoming projects!
+
+- I love to play game occasionally.
+
+
+
+ 

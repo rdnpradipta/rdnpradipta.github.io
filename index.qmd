@@ -1,0 +1,11 @@
+---
+page-layout: article
+---
+
+Hello, I am [**Ardian Pradipta**](about.html): 
+
+I'm a software engineer, working for [AIA Singapore](http://www.aia.com.sg).
+
+The sole purpose to create this blog to train to ability to write and explain things (well, some will be technical, the other will be casual blogging).
+
+Have something in mind? Drop me a [message](mailto:hi@rdnpradipta.com)!

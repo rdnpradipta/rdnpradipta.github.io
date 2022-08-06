@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: gh-pages
+
+highlight-style: dracula
+
+
+website:
+  title: "Ardian Pradipta"
+  search: false
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Blog
+        href: blog.qmd
+format:
+  html:
+    theme: darkly
+#      dark: darkly
+#      light: flatly
+    css: styles.css
