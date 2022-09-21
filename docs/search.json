@@ -25,7 +25,7 @@
     "href": "blog.html",
     "title": "Ardian Pradipta",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nAug 6, 2022\n\n\nIntro\n\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nSep 21, 2022\n\n\nGit Fire\n\n\n\n\nAug 6, 2022\n\n\nIntro\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -39,6 +39,13 @@
     "href": "posts/2022-08-06_intro/index.html",
     "title": "Intro",
     "section": "",
-    "text": "But I don’t want to just write, I want to customize my own website too!\nAfter hours of looking for free to use template, most of them are waaaay to overkill to create such a simple blog and I decided to go potato, “Nah, I won’t create something so sophisticated, let’s just use some open source framework to do the heavylifting”.\nUntil I found Quarto, it’s interesting at glance, they offered scientific and technical publishing system.\nI’ll give it a try. Why not? After all this blog will be a mix between casual and technical blogging.\nThey even have syntax highlighter!\nSystem.out.println(\"Hello World?\");\n\n\n\nQuarto Image\n\n\nNot sure why I posted the picture above, I got it from quarto site generator and it looks good, so there you go."
+    "text": "But I don’t want to just write, I want to customize my own website too!\nAfter hours of looking for free to use template, most of them are waaaay too overkill to create such a simple blog and I decided to go potato, “Nah, I won’t create something so sophisticated, let’s just use some open source framework to do the heavylifting”.\nUntil I found Quarto, it’s interesting at glance, they offered scientific and technical publishing system.\nI’ll give it a try. Why not? After all this blog will be a mix between casual and technical blogging.\nThey even have syntax highlighter!\nSystem.out.println(\"Hello World?\");\n\n\n\nQuarto Image\n\n\nNot sure why I posted the picture above, I got it from quarto site generator and it looks good, so there you go."
+  },
+  {
+    "objectID": "posts/2022-09-21_git_fire/index.html",
+    "href": "posts/2022-09-21_git_fire/index.html",
+    "title": "Git Fire",
+    "section": "",
+    "text": "This is quite funny, and this might happens to all of us, I think I need to create a post for a reminder to always have alias Fire🔥\n\n\n\nIn case of fire? Git!\n\n\ngit config --global alias.fire \\\n'!sh -c \"git checkout -b fire-{uid} && \\\n         git add -A && \\\n         git commit -m \"FIRE\" && \\\n         git push origin fire-{uid}\"'\nchange the {uid} into something that is unique (such as your email) after successful addition of command above, you can just run:\ngit fire\nOR we can just copy these commands, either we save it in alias or save it as fire(.bat), and add fire.bat into PATH.\ngit checkout -b fire-{uid} && git add -A && git commit -m \"FIRE\" && git push origin fire-{uid}\nyou can just run fire.bat in cmd.\nAt least this will do. The most important thing in case of fire is git out!"
   }
 ]

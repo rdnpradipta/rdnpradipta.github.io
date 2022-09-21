@@ -1,0 +1,36 @@
+---
+title: Git Fire
+date: "2022-09-21"
+#categories: [casual]
+---
+
+Recently, I saw years old meme about an instruction to commit and push your code before leaving the building in case of fire.
+
+This is quite funny, and this might happens to all of us, I think I need to create a post for a reminder to always have alias **Fire**🔥
+
+
+![In case of fire? Git!](https://external-preview.redd.it/bh0w-o1ebM4FJDQemthTl3MI9tw6ShI7mRyYuTCyPzc.jpg?auto=webp&s=6be2b8336133ec068e4bc6e63e2033d0608688ca)
+
+
+```bash
+git config --global alias.fire \
+'!sh -c "git checkout -b fire-{uid} && \
+         git add -A && \
+         git commit -m "FIRE" && \
+         git push origin fire-{uid}"'
+```
+
+change the {uid} into something that is unique (such as your email)
+after successful addition of command above, you can just run:
+```bash
+git fire
+```
+
+OR we can just copy these commands, either we save it in alias or save it as fire(.bat), and add fire.bat into PATH. 
+```bash
+git checkout -b fire-{uid} && git add -A && git commit -m "FIRE" && git push origin fire-{uid}
+```
+you can just run fire.bat in cmd.
+
+At least this will do.
+The most important thing in case of fire is **git out**!
