@@ -20,8 +20,8 @@ git config --global alias.fire \
          git push origin fire-{uid}"'
 ```
 
-change the {uid} into something that is unique (such as your email)
-after successful addition of command above, you can just run:
+change the {uid} into something that is unique (such as email)
+after successful addition of command above, we can just run:
 ```bash
 git fire
 ```
@@ -30,7 +30,7 @@ OR we can just copy these commands, either we save it in alias or save it as fir
 ```bash
 git checkout -b fire-{uid} && git add -A && git commit -m "FIRE" && git push origin fire-{uid}
 ```
-you can just run fire.bat in cmd.
+then we can just run fire.bat in cmd.
 
-At least this will do.
-The most important thing in case of fire is **git out**!
+At least, this will do.
+The most important thing in case of fire is _**git out**_!
