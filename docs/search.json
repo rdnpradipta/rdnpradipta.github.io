@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "Ardian Pradipta",
     "section": "",
-    "text": "Currently residing in Batam, Indonesia. And always want to travel the world."
+    "text": "The sole purpose to create this blog is to train my ability to write and explain things (well, some will be technical, the other will be casual blogging)."
   },
   {
     "objectID": "about.html#current-interest",
@@ -18,7 +18,7 @@
     "href": "about.html#side-activity",
     "title": "Ardian Pradipta",
     "section": "Side activity",
-    "text": "Side activity\n\nI created salary calculator for Indonesian Worker.\nI know it’s just only one simple website 👉👈 But I have more plans for my upcoming projects!\nI love to play game occasionally."
+    "text": "Side activity\n\nFinally commited to some course\nI created salary calculator for Indonesian Worker.\nI know it’s just only one simple website 👉👈 But I have more plans for my upcoming projects!\nI love to play game occasionally."
   },
   {
     "objectID": "blog.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Ardian Pradipta",
     "section": "",
-    "text": "I’m a software engineer, working for AIA Singapore.\nThe sole purpose to create this blog is to train my ability to write and explain things (well, some will be technical, the other will be casual blogging).\nHave something in mind? Drop me a message!"
+    "text": "I’m a Software Engineer. Currently working at Samsung SDS Asia Pacific, Singapore."
   },
   {
     "objectID": "posts/2022-08-06_intro/index.html",
@@ -47,5 +47,47 @@
     "title": "Git Fire",
     "section": "",
     "text": "This is quite funny, and this might happens to all of us, I think I need to create a post for a reminder to always have alias Fire🔥\n\n\n\nIn case of fire? Git!\n\n\ngit config --global alias.fire \\\n'!sh -c \"git checkout -b fire-{uid} && \\\n         git add -A && \\\n         git commit -m \"FIRE\" && \\\n         git push origin fire-{uid}\"'\nchange the {uid} into something that is unique (such as email) after successful addition of command above, we can just run:\ngit fire\nOR we can just copy these commands, either we save it in alias or save it as fire(.bat), and add fire.bat into PATH.\ngit checkout -b fire-{uid} && git add -A && git commit -m \"FIRE\" && git push origin fire-{uid}\nthen we can just run fire.bat in cmd.\nAt least, this will do. The most important thing in case of fire is git out!"
+  },
+  {
+    "objectID": "index.html#current-interest",
+    "href": "index.html#current-interest",
+    "title": "Ardian Pradipta",
+    "section": "Current Interest",
+    "text": "Current Interest\n\nData engineering / ML engineering,\nSince I have quite a lot of experience in building API and data transformation, I always wonder how do my company process this kind of data, how they assess this data, how they give recommendation, etc. Well, I have long journey ahead."
+  },
+  {
+    "objectID": "index.html#side-activity",
+    "href": "index.html#side-activity",
+    "title": "Ardian Pradipta",
+    "section": "Side activity",
+    "text": "Side activity\n\n✨Finally✨ commited to some course of AI Engineering and Korean course.\nI created salary calculator for Indonesian Worker.\nI know it’s just only one simple website 👉👈 But I have more plans for my upcoming projects!\nI love to play game occasionally."
+  },
+  {
+    "objectID": "index.html#language",
+    "href": "index.html#language",
+    "title": "Ardian Pradipta",
+    "section": "Language",
+    "text": "Language\nThis website is written mostly in English, but I also write articles in Indonesian (Bahasa Indonesia). Articles written in English are marked with [🇬🇧] sign. I am not a native English speaker, but I will try my best."
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Ardian Pradipta",
+    "section": "Links",
+    "text": "Links\nHave something in mind?\n\nDrop me a message\nOr reach me on Twitter"
+  },
+  {
+    "objectID": "index.html#tech-stacks",
+    "href": "index.html#tech-stacks",
+    "title": "Ardian Pradipta",
+    "section": "Tech Stacks",
+    "text": "Tech Stacks\n\nJava, Python, Javascript\nInfra setup (Docker, K8S, VM)\nAzure (AKS, Key Vault, CosmosDB, DevOps, Pipelines, etc.)\nVersion Control like svn and git"
+  },
+  {
+    "objectID": "about.html#language",
+    "href": "about.html#language",
+    "title": "Ardian Pradipta",
+    "section": "Language",
+    "text": "Language\nThis website will use English, but since I’m an Indonesian native speaker, things might be lost in translation (some words have no comparable/relatable translation available). But I will try my best to write and explain in English; Remember, the purpose of this blog creation is to train my ability as well."
   }
 ]

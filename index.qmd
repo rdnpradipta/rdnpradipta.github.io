@@ -1,11 +1,37 @@
 ---
 page-layout: article
 ---
+## Ardian Pradipta
 
-Hello, I am [**Ardian Pradipta**](about.html): 
+I'm a Software Engineer. Currently working at [Samsung SDS Asia Pacific](https://www.samsungsds.com/), Singapore.
 
-I'm a software engineer, working for [AIA Singapore](http://www.aia.com.sg).
+## Tech Stacks
+- Java, Python, Javascript
 
-The sole purpose to create this blog is to train my ability to write and explain things (well, some will be technical, the other will be casual blogging).
+- Infra setup (Docker, K8S, VM) 
 
-Have something in mind? Drop me a [message](mailto:hi@rdnpradipta.com)!
+- Azure (AKS, Key Vault, CosmosDB, DevOps, Pipelines, etc.)
+
+- Version Control like svn and git
+
+## Current Interest
+- Data engineering / ML engineering, 
+
+  Since I have quite a lot of experience in building API and data transformation, I always wonder how do my company process this kind of data, how they assess this data, how they give recommendation, etc. 
+  Well, I have long journey ahead.
+
+## Side activity
+- ✨Finally✨ commited to some course of AI Engineering and Korean course.
+
+- I created [salary calculator](https://github.com/rdnpradipta/salary-calculator-id) for Indonesian Worker.
+
+  I know it's just only one simple website 👉👈 But I have more plans for my upcoming projects!
+
+- I love to play game occasionally.
+
+## Links
+Have something in mind? 
+  
+- Drop me a [message](mailto:hi@rdnpradipta.com)
+
+- Or reach me on [Twitter](https://twitter.com/rdnpradipta)

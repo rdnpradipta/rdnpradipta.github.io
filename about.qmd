@@ -2,26 +2,8 @@
 # title: "About"
 ---
 
-Currently residing in Batam, Indonesia. And always want to travel the world.
+## About this website
+The sole purpose to create this blog is to train my ability to write and explain things (well, some will be technical, the other will be casual blogging).
 
-## Current Interest
-- Data engineering / ML engineering, 
-
-  Since I have quite a lot of experience in building API and data transformation, I always wonder how do my company process this kind of data, how they assess this data, how they give recommendation, etc. 
-  Well, I have long journey ahead.
-
-- Japanese
-
-  I **love** japanese culture, I think it's natural that I want to enjoy my movie, anime, music, comics and books without subtitle/translation. As we know, something almost always lost in translation.
-
-
-## Side activity
-- I created [salary calculator](https://github.com/rdnpradipta/salary-calculator-id) for Indonesian Worker.
-
-  I know it's just only one simple website 👉👈 But I have more plans for my upcoming projects!
-
-- I love to play game occasionally.
-
-
-
- 
+## Language
+This website will use English, but since I'm an Indonesian native speaker, things might be lost in translation (some words have no comparable/relatable translation available). But I will try my best to write and explain in English; Remember, the purpose of this blog creation is to train my ability as well.
