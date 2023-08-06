@@ -12,10 +12,17 @@
     .navbar-nav {
         margin: 20px 0 auto;
     }
+    .navbar>.container-fluid {
+        align-self: end;
+        flex-direction: column;
+        align-content: flex-end;
+        flex-wrap: wrap;
+        align-items: flex-end
+    }
     .navbar-nav a.nav-link:hover,
     .navbar-nav a.nav-link.active{
         border-bottom: 0;
-        border-left: solid;
+        border-right: solid;
     }
   }
 
