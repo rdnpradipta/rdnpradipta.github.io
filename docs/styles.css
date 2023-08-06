@@ -24,6 +24,9 @@
         border-bottom: 0;
         border-right: solid;
     }
+    li.nav-item {
+        text-align: right;
+    }
   }
 
 @media screen and (min-width: 992px) {
